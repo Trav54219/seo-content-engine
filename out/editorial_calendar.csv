@@ -1,0 +1,25 @@
+publish_date,slug,type,primary_keyword,intent,theme,target_words,pillar,owner,status
+2026-12-01,best-espresso-machine,pillar,best espresso machine,commercial,espresso machine,2050,best espresso machine,unassigned,planned
+2026-12-03,best-coffee-beans,pillar,best coffee beans,commercial,coffee bean,2050,best coffee beans,unassigned,planned
+2026-12-08,best-cold-brew,pillar,best cold brew,commercial,cold brew,2000,best cold brew,unassigned,planned
+2026-12-10,best-burr-grinder,pillar,best burr grinder,commercial,burr grinder,2000,best burr grinder,unassigned,planned
+2026-12-15,best-french-press,pillar,best french press,commercial,french press,2050,best french press,unassigned,planned
+2026-12-17,best-pour-over,pillar,best pour over,commercial,pour over,2050,best pour over,unassigned,planned
+2026-12-22,best-aeropress,pillar,best aeropress,commercial,aeropress,2000,best aeropress,unassigned,planned
+2026-12-24,best-moka-pot,pillar,best moka pot,commercial,moka pot,2000,best moka pot,unassigned,planned
+2026-12-29,how-to-use-a-espresso-machine,supporting,how to use a espresso machine,informational,espresso machine,1400,best espresso machine,unassigned,planned
+2026-12-31,buy-espresso-machine,supporting,buy espresso machine,transactional,espresso machine,800,best espresso machine,unassigned,planned
+2027-01-05,how-to-use-a-coffee-beans,supporting,how to use a coffee beans,informational,coffee bean,1400,best coffee beans,unassigned,planned
+2027-01-07,buy-coffee-beans,supporting,buy coffee beans,transactional,coffee bean,850,best coffee beans,unassigned,planned
+2027-01-12,what-is-a-cold-brew,supporting,what is a cold brew,informational,cold brew,1400,best cold brew,unassigned,planned
+2027-01-14,buy-cold-brew,supporting,buy cold brew,transactional,cold brew,800,best cold brew,unassigned,planned
+2027-01-19,how-to-use-a-burr-grinder,supporting,how to use a burr grinder,informational,burr grinder,1400,best burr grinder,unassigned,planned
+2027-01-21,buy-burr-grinder,supporting,buy burr grinder,transactional,burr grinder,800,best burr grinder,unassigned,planned
+2027-01-26,how-to-use-a-french-press,supporting,how to use a french press,informational,french press,1400,best french press,unassigned,planned
+2027-01-28,buy-french-press,supporting,buy french press,transactional,french press,800,best french press,unassigned,planned
+2027-02-02,how-to-use-a-pour-over,supporting,how to use a pour over,informational,pour over,1400,best pour over,unassigned,planned
+2027-02-04,pour-over-price,supporting,pour over price,transactional,pour over,750,best pour over,unassigned,planned
+2027-02-09,how-to-clean-a-aeropress,supporting,how to clean a aeropress,informational,aeropress,1400,best aeropress,unassigned,planned
+2027-02-11,buy-aeropress,supporting,buy aeropress,transactional,aeropress,800,best aeropress,unassigned,planned
+2027-02-16,what-is-a-moka-pot,supporting,what is a moka pot,informational,moka pot,1400,best moka pot,unassigned,planned
+2027-02-18,buy-moka-pot,supporting,buy moka pot,transactional,moka pot,800,best moka pot,unassigned,planned

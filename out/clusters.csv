@@ -1,0 +1,26 @@
+theme,intent,primary_keyword,keywords,total_volume,avg_difficulty,opportunity
+brand,navigational,bean atlas coffee,8,5010,5.6,321.2
+espresso machine,informational,how to use a espresso machine,6,7653,38.2,158.8
+cold brew,informational,what is a cold brew,6,7459,41.2,145.7
+espresso machine,commercial,best espresso machine,6,9845,58.3,144.1
+coffee bean,informational,how to use a coffee beans,6,6614,39.2,134.4
+coffee bean,commercial,best coffee beans,6,7609,58.0,111.9
+burr grinder,informational,how to use a burr grinder,6,4997,39.7,100.5
+burr grinder,commercial,best burr grinder,6,6110,54.8,94.3
+cold brew,commercial,best cold brew,6,5714,51.8,92.5
+pour over,informational,how to use a pour over,6,4033,38.7,82.8
+french press,informational,how to use a french press,6,3307,34.3,74.7
+french press,commercial,best french press,6,4389,55.7,66.8
+aeropress,informational,how to clean a aeropress,6,2520,36.0,54.8
+pour over,commercial,best pour over,6,3597,56.3,54.3
+espresso machine,transactional,buy espresso machine,6,3412,54.2,53.1
+coffee bean,transactional,buy coffee beans,6,3497,57.0,52.2
+moka pot,informational,what is a moka pot,6,2001,35.2,44.3
+moka pot,commercial,best moka pot,6,2705,53.5,42.6
+aeropress,commercial,best aeropress,6,2744,55.0,42.2
+burr grinder,transactional,buy burr grinder,6,2684,54.7,41.5
+cold brew,transactional,buy cold brew,6,2483,53.8,38.9
+pour over,transactional,pour over price,6,1906,50.0,31.8
+french press,transactional,buy french press,6,1876,52.5,30.0
+aeropress,transactional,buy aeropress,6,1231,52.0,19.9
+moka pot,transactional,buy moka pot,6,827,53.2,13.1

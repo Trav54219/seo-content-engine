@@ -1,0 +1,14 @@
+source,target,anchor_text,reason
+/best-burr-grinder.html,/cold-brew-tips.html,cold brew tips,target page has no inbound internal links
+/best-burr-grinder.html,/how-to-use-espresso-machine.html,how to use a espresso machine,unlinked mention of target phrase
+/cold-brew-tips.html,/best-burr-grinder.html,best burr grinder,unlinked mention of target phrase
+/cold-brew-tips.html,/how-to-use-espresso-machine.html,how to use a espresso machine,unlinked mention of target phrase
+/cold-brew-tips.html,/espresso-machine-guide.html,espresso machine guide for beginners,unlinked mention of target phrase
+/espresso-machine-guide.html,/cold-brew-tips.html,cold brew tips,target page has no inbound internal links
+/french-press-review.html,/best-burr-grinder.html,best burr grinder,unlinked mention of target phrase
+/french-press-review.html,/how-to-use-espresso-machine.html,how to use a espresso machine,unlinked mention of target phrase
+/how-to-use-espresso-machine.html,/cold-brew-tips.html,cold brew tips,target page has no inbound internal links
+/moka-pot-tips.html,/best-burr-grinder.html,best burr grinder,unlinked mention of target phrase
+/moka-pot-tips.html,/how-to-use-espresso-machine.html,how to use a espresso machine,unlinked mention of target phrase
+/moka-pot-tips.html,/espresso-machine-guide.html,espresso machine guide for beginners,unlinked mention of target phrase
+/pour-over-guide.html,/best-burr-grinder.html,best burr grinder,unlinked mention of target phrase
